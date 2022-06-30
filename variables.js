@@ -15,3 +15,4 @@ var persona = {
 }
 
 persona;
+console.log(Persona);
